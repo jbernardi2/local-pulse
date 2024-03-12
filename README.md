@@ -24,5 +24,8 @@
 
 ### Mac application should run on Linux distributions as well, please feel free to give me feedback
 
-Owner: Jonathan Bernardi
-Email: jonathan.bernardi@henkel.com
+## Owner
+
+This project is owned and maintained by [Jonathan Bernardi / Henkel AG & Co. KGaA].
+
+#### Contact: jonathan.bernardi@henkel.com
