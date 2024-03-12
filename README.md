@@ -1,6 +1,6 @@
 # LocalPulse
 ## To download:
-### Navigate to Releases on the side and select the appropriate zip file (Windows or Mac/Linux).
+### Navigate to Releases on the side and select the appropriate file (Windows or Mac/Linux).
 ## To use:
 ## * Please use a switch to connect your computer and the I4.0 capable devices using ethernet. The server will not start unless the switch is plugged in, or you are directly plugged into an RC50/SD30 via ethernet.
 ## ** If Wi-Fi is to be used, please contact me using my email below and I can assist with that use case (I will have to recreate the application to reflect your Wireless IP address).
