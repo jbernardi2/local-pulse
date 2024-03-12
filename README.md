@@ -20,4 +20,9 @@
 ##### ** RC50/SD30 should also reflect the same IP for the server field, same goes for the netmask and gateway. Device IP must be 192.168.4.* where * can be any number 1-255 except for 127 since the server is running on 127.
 
 
-### To run the application, please select and download the appropriate zip for your operating system (Mac for MacOS, and Windows for Windows). Extract the zip file and run the executable (if on Windows). If on mac, it will show up as an application. Make sure to right click the application and select open to make sure MacOS will open the app <- first time only. Windows should have no issue running the executable. 
+### To run the application, please select and download the appropriate zip for your operating system (Mac for MacOS, and Windows for Windows). Extract the zip file and run the executable (if on Windows). If on Mac, it will show up as an application. Make sure to right click the application and select open to make sure MacOS will open the app <- first time only. Windows should have no issue running the executable. 
+
+### Mac application should run on Linux distributions as well, please feel free to give me feedback
+
+Owner: Jonathan Bernardi
+Email: jonathan.bernardi@henkel.com
