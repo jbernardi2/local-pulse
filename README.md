@@ -26,7 +26,10 @@
 ##
 ### To run the application, please select and download the appropriate zip for your operating system (Mac for MacOS, and Windows for Windows). Extract the zip file and run the executable (if on Windows). If on Mac, it will show up as an application. Make sure to right click the application and select open to make sure MacOS will open the app <- first time only. Windows should have no issue running the executable. 
 
-### Mac application should run on Linux distributions as well, please feel free to give me feedback
+### Mac application should run on Linux distributions as well, please feel free to give me feedback.
+##
+### To find the CSV files for your devices, navigate to your user's documents folder and there you should find the csv files labeled rc50_data.csv and sd30_data.csv.
+#### To start over with a fresh csv, feel free to rename the csv files or move the old csv files out of your documents folder and it will repopulate when the application is run again. 
 ##
 ## Owner
 
